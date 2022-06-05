@@ -1,0 +1,16 @@
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.exe
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.deps.json
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.runtimeconfig.json
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.runtimeconfig.dev.json
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.dll
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\bin\Debug\net5.0\Lab8.1_MOIAIS_v8.pdb
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.csproj.AssemblyReference.cache
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.AssemblyInfoInputs.cache
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.AssemblyInfo.cs
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.csproj.CoreCompileInputs.cache
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.dll
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\refint\Lab8.1_MOIAIS_v8.dll
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.pdb
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\Lab8.1_MOIAIS_v8.genruntimeconfig.cache
+C:\Users\alros\source\repos\Lab8.1_MOIAIS_v8\Lab8.1_MOIAIS_v8\obj\Debug\net5.0\ref\Lab8.1_MOIAIS_v8.dll
